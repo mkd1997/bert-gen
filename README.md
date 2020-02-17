@@ -12,3 +12,5 @@ see https://arxiv.org/abs/1902.04094 for details.
   year={2019}
 }
 ```
+
+To run the notebook as a Google Colab notebook, create a 'generated_sentences' folder in the root directory and then run all cells.
